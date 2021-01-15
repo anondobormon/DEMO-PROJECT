@@ -5,7 +5,7 @@
 }
 
 .model-1{
-    background: url(/CSS/img/BG.jpg);
+    background: url(CSS/img/BG.jpg);
     background-position: center;
     background-size: cover;
 }
